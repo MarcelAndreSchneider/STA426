@@ -1,10 +1,10 @@
 
 
 
-??text.r
-?sample
 
-sample
+hello 
+whats up?
+
 
 
 sample(1:5, 10, replace=T)
