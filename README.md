@@ -30,5 +30,6 @@ By adding a __"!"__ *(Exclamation Mark)* before the square brackets and the link
 
 
 
-[The Github Logo](Pics Homework/GitHub-brave-hed-796x418.jpg)
+[The Github Logo]: (Pics Homework/GitHub-brave-hed-796x418.jpg)
+
 [R Logo]: https://www.r-project.org/logo/Rlogo.png
