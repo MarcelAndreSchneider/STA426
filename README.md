@@ -28,6 +28,15 @@ Similarly, one can also refer to images that are stored in the repository itself
 
 
 
+Lets finish this first document of with a wise quote from the Nature Briefing E-Mail Newsletter: 
+
+
+> QUOTE OF THE DAY
+> “We need to hold each other accountable for fantasy thinking about how much science costs.” 
+> There is a growing disconnect between what is proposed in the average US National Institute of Health grant application and what it > > can actually pay to accomplish, argues pseudonymous biomedical researcher DrugMonkey. 
+
+
+
 [The Github Logo]: (https://github.com/MarcelAndreSchneider/STA426-Exercise-1-Trial/blob/master/Pics%20Homework/GitHub-brave-hed-796x418.jpg)
 
 [R Logo]: https://www.r-project.org/logo/Rlogo.png
