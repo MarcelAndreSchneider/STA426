@@ -32,8 +32,11 @@ Lets finish this first document of with a wise quote from the Nature Briefing E-
 
 
 > QUOTE OF THE DAY
-> “We need to hold each other accountable for fantasy thinking about how much science costs.” 
-> There is a growing disconnect between what is proposed in the average US National Institute of Health grant application and what it > > can actually pay to accomplish, argues pseudonymous biomedical researcher DrugMonkey. 
+>
+> __“We need to hold each other accountable for fantasy thinking about how much science costs.”__
+> 
+> There is a growing disconnect between what is proposed in the average US National Institute of Health grant application and what it 
+> can actually pay to accomplish, argues pseudonymous biomedical researcher DrugMonkey. 
 
 
 
