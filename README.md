@@ -23,7 +23,7 @@ By adding a __"!"__ *(Exclamation Mark)* before the square brackets and the link
 
 ![whateva](Pics Homework/GitHub-brave-hed-796x418)
 
-![Whatevar](../master/Pics Homework/GitHub-brave-hed-796x418.jpg)
+![Whatevar](../master/Pics%20Homework/GitHub-brave-hed-796x418.jpg)
 
 
 
