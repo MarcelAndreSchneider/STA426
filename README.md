@@ -7,7 +7,7 @@
 
 We'll be using R in these exercises ![R Logo2][R Logo]
 
-![Alt text](/Pics Homework/2000px-R_logo.svg)
+![Rlogo](/Pics Homework/2000px-R_logo.svg)
 
 
 
