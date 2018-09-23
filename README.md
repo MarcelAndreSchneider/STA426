@@ -3,7 +3,7 @@
 ### Date: 2018-09-23
 
 
-
+![Alt text](https://playdauntless.com/images/media-wallpapers/stormclaw-reveal-wallpaper-dauntless-2560x1600.jpg)
 
 We'll be using R in these exercises ![R Logo2][R Logo]
 
