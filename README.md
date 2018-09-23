@@ -40,6 +40,7 @@ Lets finish this first document of with a wise quote from the Nature Briefing E-
 
 
 
-[The Github Logo]: (https://github.com/MarcelAndreSchneider/STA426-Exercise-1-Trial/blob/master/Pics%20Homework/GitHub-brave-hed-796x418.jpg)
+[The Github Logo]: (https://cdn.rawgit.com/MarcelAndreSchneider/STA426-Exercise-1-Trial/master/Pics%20Homework/GitHub-brave-hed-796x418.jpg)
+
 
 [R Logo]: https://www.r-project.org/logo/Rlogo.png
