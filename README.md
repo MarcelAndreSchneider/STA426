@@ -21,14 +21,16 @@ By adding a __"!"__ *(Exclamation Mark)* before the square brackets and the link
 
 
 
+![the Github logo](Pics Homework/GitHub-brave-hed-796x418.jpg)
+
+
+
+
+
+
+
+
 ![the Github logo][The Github Logo]
-
-
-
-
-
-
-
 
 [The Github Logo]: (Pics Homework/GitHub-brave-hed-796x418.jpg)
 
