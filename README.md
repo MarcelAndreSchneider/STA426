@@ -20,7 +20,7 @@ By adding a __"!"__ *(Exclamation Mark)* before the square brackets and the link
 ![the R Logo][R Logo].
 
 
-Similarly, one can also refer to images that are stored in the repository itself, e.g. the [the Github logo][The Github Logo] or can alternatively have it shown directly in the text. This is pretty badass, isn't it?
+Similarly, one can also refer to images that are stored in the repository itself, e.g. the [the Github logo](../master/Pics%20Homework/GitHub-brave-hed-796x418.jpg) or can alternatively have it shown directly in the text. This is pretty badass, isn't it?
 
 
 
@@ -31,12 +31,13 @@ Similarly, one can also refer to images that are stored in the repository itself
 Lets finish this first document of with a wise quote from the Nature Briefing E-Mail Newsletter: 
 
 
-> QUOTE OF THE DAY
+> QUOTE OF THE DAY:
 >
 > __“We need to hold each other accountable for fantasy thinking about how much science costs.”__
 > 
 > There is a growing disconnect between what is proposed in the average US National Institute of Health grant application and what it 
 > can actually pay to accomplish, argues pseudonymous biomedical researcher DrugMonkey. 
+
 
 
 
