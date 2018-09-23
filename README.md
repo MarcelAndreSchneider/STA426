@@ -12,23 +12,17 @@ Haven't been able to use _git_ with the *command line* only, not really working 
 
 Ok, so we should also include pics and links. 
 So, for example, we can refer to homepages by direct text based links, e.g. [The Comprehensive R Archive Network](https://cran.r-project.org/).
-In the same manner, we can refer to images, e.g. [the R Logo](https://www.r-project.org/logo/Rlogo.png).
+In the same manner, we can refer to images, e.g. [the R Logo][R Logo].
 
 
-By adding a __"!"__ *(Exclamation Mark)* before the square brackets and the link, the image will be automatically displayed in the markdown document ![the R Logo](https://www.r-project.org/logo/Rlogo.png).
+By adding a __"!"__ *(Exclamation Mark)* before the square brackets and the link, the image will be automatically displayed in the markdown document, e.g. :
+
+![the R Logo][R Logo].
 
 
 
 
 
 
-![Alt text](https://playdauntless.com/images/media-wallpapers/stormclaw-reveal-wallpaper-dauntless-2560x1600.jpg)
 
-We'll be using R in these exercises ![R Logo2][R Logo]
-
-![Rlogo](/Pics Homework/2000px-R_logo.svg)
-
-[This link](https://playdauntless.com/images/media-wallpapers/stormclaw-reveal-wallpaper-dauntless-2560x1600.jpg)
-
-
-[R Logo]: https://de.wikipedia.org/wiki/R_(Programmiersprache)#/media/File:R_logo.svg
+[R Logo]: https://www.r-project.org/logo/Rlogo.png
