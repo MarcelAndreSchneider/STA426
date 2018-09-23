@@ -20,18 +20,16 @@ By adding a __"!"__ *(Exclamation Mark)* before the square brackets and the link
 ![the R Logo][R Logo].
 
 
-
-![whateva](Pics Homework/GitHub-brave-hed-796x418)
-
-![Whatevar](../master/Pics%20Homework/GitHub-brave-hed-796x418.jpg)
-
-
-
-
+Similarly, one can also refer to images that are stored in the repository itself, e.g. the [the Github logo][The Github Logo] or can alternatively have it shown directly in the text. This is pretty badass, isn't it?
 
 
 ![the Github logo][The Github Logo]
 
-[The Github Logo]: (Pics Homework/GitHub-brave-hed-796x418.jpg)
+
+
+
+
+
+[The Github Logo]: (../master/Pics%20Homework/GitHub-brave-hed-796x418.jpg)
 
 [R Logo]: https://www.r-project.org/logo/Rlogo.png
