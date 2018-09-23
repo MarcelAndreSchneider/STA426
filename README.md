@@ -1,9 +1,4 @@
-# STA426-Exercise-1-Trial
-Exercise 1 Trial Marcel Schneider
-
----------------------------------------------------------------
-
-## STA 426 - Exercise 1
+## STA 426 - Homework 1, Part 1
 ### Author:  Marcel Schneider
 ### Date: 2018-09-23
 
@@ -12,7 +7,7 @@ Exercise 1 Trial Marcel Schneider
 
 We'll be using R in these exercises ![R Logo2][R Logo]
 
-
+![Alt text](/Pics Homework/2000px-R_logo.svg)
 
 
 
