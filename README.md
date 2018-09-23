@@ -28,6 +28,6 @@ Similarly, one can also refer to images that are stored in the repository itself
 
 
 
-[The Github Logo]: (Pics%20Homework/GitHub-brave-hed-796x418.jpg)
+[The Github Logo]: (https://github.com/MarcelAndreSchneider/STA426-Exercise-1-Trial/blob/master/Pics%20Homework/GitHub-brave-hed-796x418.jpg)
 
 [R Logo]: https://www.r-project.org/logo/Rlogo.png
