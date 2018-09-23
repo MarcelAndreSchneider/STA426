@@ -21,9 +21,9 @@ By adding a __"!"__ *(Exclamation Mark)* before the square brackets and the link
 
 
 
-![the Github logo](Pics Homework/GitHub-brave-hed-796x418)
+![whateva](Pics Homework/GitHub-brave-hed-796x418)
 
-
+![Whatevar](../master/Pics Homework/GitHub-brave-hed-796x418.jpg)
 
 
 
